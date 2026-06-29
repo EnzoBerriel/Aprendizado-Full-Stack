@@ -51,6 +51,4 @@ Cada produto é exibido em um card contendo imagem, descrição e preço.
 
 Exercício prático realizado durante o curso de **HTML e CSS** da [ORIGAMID](https://www.origamid.com/).
 
-## ✍️ Autor
 
-Rafael Lloyd
