@@ -1,0 +1,71 @@
+body {
+  background-color: #eeeeee;
+  font-family: Arial;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+#título {
+  text-align: center;
+}
+.Flexbox {
+  color: black;
+  display: flex;
+  flex: 1;
+  gap: 20px;
+  justify-content: center;
+}
+.descrição {
+  color: black;
+  background: white;
+  padding: 10px 20px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: white;
+  margin: 40px;
+  font-size: 24px;
+  position: relative;
+}
+.texto1 {
+  background-color: white;
+  padding: 40px;
+  text-align: right;
+}
+.detalhe {
+  width: 60px;
+  height: 4px;
+  background: #e21;
+  display: inline-block;
+  position: absolute;
+  top: 30px;
+  right: 485px;
+}
+#vejamais {
+  background-color: #ee2211;
+  color: white;
+  padding: 10px 20px;
+  border: solid 1px #ee2211;
+  border-radius: 4px;
+  
+}
+#VB {
+  color: #c6c6c6;
+  align-content: center;
+  text-align: right;
+  font-size: 64px;
+  margin: 20px;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.texto2 {
+  text-align: left;
+  padding: 40px;
+}
+.titulo2 {
+  font-weight: bold;
+}
