@@ -56,12 +56,17 @@ public class Main {
         //Fechando Scanner
         rl.close();
         //Método/Resposta
+            //Criando objeto
         Funcionario funcionario = new Funcionario();
+            //Dados Originais
         funcionario.dadosFunc(Cadastrados);
+            //Dados Ajustados
         System.out.println("Novo ajuste:");
         funcionario.Ajuste(Cadastrados);
         funcionario.dadosFunc(Cadastrados);
+            //Idade Média dos Funcionários
         System.out.println("Media ded idade dos Funcionários: "+funcionario.idadeMedia(Cadastrados));
+            //Folha de Pagamento dos Departamentos
         System.out.println("Dados da Folha de Pagamento");
         funcionario.folhaPagamento(Cadastrados);
     }
