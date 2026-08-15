@@ -21,7 +21,8 @@ preparação para conseguir meu primeiro estágio em Desenvolvimento de Software
 | Exercícios | Tema                                                                 |
 | ---------- | -------------------------------------------------------------------- |
 | 084 – 086  | Listas: armazenamento de múltiplos registros, busca de máximo/mínimo |
-| 090 – 092  | Dicionários: estruturação de dados, chaves condicionais              |
+| 090 – 095  | Dicionários: estruturação de dados, chaves condicionais              |
+| 096 - 100  | Funções: parâmetros, docstring, implementação
 
 > Esta tabela será atualizada conforme novos exercícios forem adicionados.
 
